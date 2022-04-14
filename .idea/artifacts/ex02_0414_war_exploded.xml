@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ex02_0414:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ex02_0414_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ex02_0414/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ex02_0414" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:4.0.3" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.5.9" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:2.0.7" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.18" />
+          <element id="library" level="project" name="ojdbc8" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.18" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:2.0.0-alpha1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
